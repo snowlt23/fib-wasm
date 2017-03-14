@@ -1,0 +1,11 @@
+﻿
+nimcache/
+nimsuggest.log
+
+/public/*
+!public/.gitkeep
+
+nakefile.exe
+nakefile
+server.exe
+server
